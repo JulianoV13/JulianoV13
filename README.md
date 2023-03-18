@@ -22,3 +22,6 @@
    <img align="center" alt="Juliano-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  
 </div>
+
+![snake gif](https://github.com/JulianoV13/JulianoV13/blob/output/github-contribution-grid-snake.svg)
+
