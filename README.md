@@ -25,5 +25,7 @@
     <img align="center" alt="Juliano-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg">
 </div>
 
+![Snake animation](https://github.com/JulianoV13/JulianoV13/blob/output/github-contribution-grid-snake.svg)
+
 
 
